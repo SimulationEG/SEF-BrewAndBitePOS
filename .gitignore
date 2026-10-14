@@ -1,0 +1,8 @@
+﻿pos
+pos.exe
+*.o
+*.obj
+build/
+.vs/
+.idea/
+*.user
